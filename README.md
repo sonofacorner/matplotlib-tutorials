@@ -1,3 +1,4 @@
-# matplotlib-tutorials
-The Jupyter notebooks behind my my matplotlib tutorials.
-Does this work?
+# SON OF A CORNER Matplotlib Tutorials
+
+The Jupyter notebooks behind my [matplotlib tutorials](https://www.sonofacorner.com/tag/tutorials/).
+

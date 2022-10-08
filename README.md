@@ -1,4 +1,4 @@
-# SON OF A CORNER Matplotlib Tutorials
+# SON OF A CORNER Python Tutorials
 
-The Jupyter notebooks behind my [matplotlib tutorials](https://www.sonofacorner.com/tag/tutorials/).
+The Jupyter notebooks behind my [python tutorials](https://www.sonofacorner.com/tag/tutorials/).
 

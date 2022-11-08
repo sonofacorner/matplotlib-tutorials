@@ -1,0 +1,97 @@
+,date,match_id,home_team_id,home_team_name,away_team_id,away_team_name,home_team_score,away_team_score,finished,cancelled,result,league_id,league_name
+0,2022-09-07 18:45:00,4010118,8593,Ajax,8548,Rangers,4,0,True,False,Home,42,Champions League
+1,2022-09-07 21:00:00,4010119,9875,Napoli,8650,Liverpool,4,1,True,False,Home,42,Champions League
+2,2022-09-07 21:00:00,4010138,9906,Atletico Madrid,9773,FC Porto,2,1,True,False,Home,42,Champions League
+3,2022-09-07 21:00:00,4010139,8342,Club Brugge,8178,Leverkusen,1,0,True,False,Home,42,Champions League
+4,2022-09-07 21:00:00,4010163,8634,Barcelona,6033,Viktoria Plzen,5,1,True,False,Home,42,Champions League
+5,2022-09-07 21:00:00,4010164,8636,Inter,9823,Bayern München,0,2,True,False,Away,42,Champions League
+6,2022-09-07 18:45:00,4010181,9810,Frankfurt,9768,Sporting CP,0,3,True,False,Away,42,Champions League
+7,2022-09-07 21:00:00,4010182,8586,Tottenham,8592,Marseille,2,0,True,False,Home,42,Champions League
+0,2022-09-06 18:45:00,4010132,10156,Dinamo Zagreb,8455,Chelsea,1,0,True,False,Home,42,Champions League
+1,2022-09-06 21:00:00,4010133,10013,Salzburg,8564,Milan,1,1,True,False,Draw,42,Champions League
+2,2022-09-06 21:00:00,4010150,9925,Celtic,8633,Real Madrid,0,3,True,False,Away,42,Champions League
+3,2022-09-06 21:00:00,4010151,178475,RB Leipzig,9728,Shakhtar Donetsk,1,4,True,False,Away,42,Champions League
+4,2022-09-06 18:45:00,4010156,9789,Dortmund,8391,FC København,3,0,True,False,Home,42,Champions League
+5,2022-09-06 21:00:00,4010157,8302,Sevilla,8456,Man City,0,4,True,False,Away,42,Champions League
+6,2022-09-06 21:00:00,4010176,9772,Benfica,10185,Maccabi Haifa,2,0,True,False,Home,42,Champions League
+7,2022-09-06 21:00:00,4010175,9847,PSG,9885,Juventus,2,1,True,False,Home,42,Champions League
+0,2022-09-14 21:00:00,4010121,8548,Rangers,9875,Napoli,0,3,True,False,Away,42,Champions League
+1,2022-09-14 18:45:00,4010205,8564,Milan,10156,Dinamo Zagreb,3,1,True,False,Home,42,Champions League
+2,2022-09-14 21:00:00,4010206,8455,Chelsea,10013,Salzburg,1,1,True,False,Draw,42,Champions League
+3,2022-09-14 18:45:00,4010211,9728,Shakhtar Donetsk,9925,Celtic,1,1,True,False,Draw,42,Champions League
+4,2022-09-14 21:00:00,4010212,8633,Real Madrid,178475,RB Leipzig,2,0,True,False,Home,42,Champions League
+5,2022-09-14 21:00:00,4010231,8391,FC København,8302,Sevilla,0,0,True,False,Draw,42,Champions League
+6,2022-09-14 21:00:00,4010230,8456,Man City,9789,Dortmund,2,1,True,False,Home,42,Champions League
+7,2022-09-14 21:00:00,4010237,9885,Juventus,9772,Benfica,1,2,True,False,Away,42,Champions League
+8,2022-09-14 21:00:00,4010236,10185,Maccabi Haifa,9847,PSG,1,3,True,False,Away,42,Champions League
+0,2022-09-13 21:00:00,4010120,8650,Liverpool,8593,Ajax,2,1,True,False,Home,42,Champions League
+1,2022-09-13 21:00:00,4010140,8178,Leverkusen,9906,Atletico Madrid,2,0,True,False,Home,42,Champions League
+2,2022-09-13 21:00:00,4010141,9773,FC Porto,8342,Club Brugge,0,4,True,False,Away,42,Champions League
+3,2022-09-13 18:45:00,4010166,6033,Viktoria Plzen,8636,Inter,0,2,True,False,Away,42,Champions League
+4,2022-09-13 21:00:00,4010165,9823,Bayern München,8634,Barcelona,2,0,True,False,Home,42,Champions League
+5,2022-09-13 18:45:00,4010184,9768,Sporting CP,8586,Tottenham,2,0,True,False,Home,42,Champions League
+6,2022-09-13 21:00:00,4010183,8592,Marseille,9810,Frankfurt,0,1,True,False,Away,42,Champions League
+0,2022-10-04 21:00:00,4010124,8593,Ajax,9875,Napoli,1,6,True,False,Away,42,Champions League
+1,2022-10-04 21:00:00,4010125,8650,Liverpool,8548,Rangers,2,0,True,False,Home,42,Champions League
+2,2022-10-04 21:00:00,4010143,8342,Club Brugge,9906,Atletico Madrid,2,0,True,False,Home,42,Champions League
+3,2022-10-04 21:00:00,4010142,9773,FC Porto,8178,Leverkusen,2,0,True,False,Home,42,Champions League
+4,2022-10-04 18:45:00,4010167,9823,Bayern München,6033,Viktoria Plzen,5,0,True,False,Home,42,Champions League
+5,2022-10-04 21:00:00,4010168,8636,Inter,8634,Barcelona,1,0,True,False,Home,42,Champions League
+6,2022-10-04 19:05:00,4010185,8592,Marseille,9768,Sporting CP,4,1,True,False,Home,42,Champions League
+7,2022-10-04 21:00:00,4010186,9810,Frankfurt,8586,Tottenham,0,0,True,False,Draw,42,Champions League
+0,2022-10-05 18:45:00,4010134,10013,Salzburg,10156,Dinamo Zagreb,1,0,True,False,Home,42,Champions League
+1,2022-10-05 21:00:00,4010135,8455,Chelsea,8564,Milan,3,0,True,False,Home,42,Champions League
+2,2022-10-05 18:45:00,4010152,178475,RB Leipzig,9925,Celtic,3,1,True,False,Home,42,Champions League
+3,2022-10-05 21:00:00,4010153,8633,Real Madrid,9728,Shakhtar Donetsk,2,1,True,False,Home,42,Champions League
+4,2022-10-05 21:00:00,4010158,8456,Man City,8391,FC København,5,0,True,False,Home,42,Champions League
+5,2022-10-05 21:00:00,4010159,8302,Sevilla,9789,Dortmund,1,4,True,False,Away,42,Champions League
+6,2022-10-05 21:00:00,4010178,9772,Benfica,9847,PSG,1,1,True,False,Draw,42,Champions League
+7,2022-10-05 21:00:00,4010177,9885,Juventus,10185,Maccabi Haifa,3,1,True,False,Home,42,Champions League
+0,2022-10-12 18:45:00,4010126,9875,Napoli,8593,Ajax,4,2,True,False,Home,42,Champions League
+1,2022-10-12 21:00:00,4010127,8548,Rangers,8650,Liverpool,1,7,True,False,Away,42,Champions League
+2,2022-10-12 18:45:00,4010145,9906,Atletico Madrid,8342,Club Brugge,0,0,True,False,Draw,42,Champions League
+3,2022-10-12 21:00:00,4010144,8178,Leverkusen,9773,FC Porto,0,3,True,False,Away,42,Champions League
+4,2022-10-12 21:00:00,4010169,8634,Barcelona,8636,Inter,3,3,True,False,Draw,42,Champions League
+5,2022-10-12 21:00:00,4010170,6033,Viktoria Plzen,9823,Bayern München,2,4,True,False,Away,42,Champions League
+6,2022-10-12 21:00:00,4010188,9768,Sporting CP,8592,Marseille,0,2,True,False,Away,42,Champions League
+7,2022-10-12 21:00:00,4010187,8586,Tottenham,9810,Frankfurt,3,2,True,False,Home,42,Champions League
+0,2022-10-11 21:00:00,4010136,10156,Dinamo Zagreb,10013,Salzburg,1,1,True,False,Draw,42,Champions League
+1,2022-10-11 21:00:00,4010137,8564,Milan,8455,Chelsea,0,2,True,False,Away,42,Champions League
+2,2022-10-11 21:00:00,4010155,9925,Celtic,178475,RB Leipzig,0,2,True,False,Away,42,Champions League
+3,2022-10-11 21:00:00,4010154,9728,Shakhtar Donetsk,8633,Real Madrid,1,1,True,False,Draw,42,Champions League
+4,2022-10-11 18:45:00,4010160,8391,FC København,8456,Man City,0,0,True,False,Draw,42,Champions League
+5,2022-10-11 21:00:00,4010161,9789,Dortmund,8302,Sevilla,1,1,True,False,Draw,42,Champions League
+6,2022-10-11 18:45:00,4010179,10185,Maccabi Haifa,9885,Juventus,2,0,True,False,Home,42,Champions League
+7,2022-10-11 21:00:00,4010180,9847,PSG,9772,Benfica,1,1,True,False,Draw,42,Champions League
+0,2022-10-26 21:00:00,4010129,8593,Ajax,8650,Liverpool,0,3,True,False,Away,42,Champions League
+1,2022-10-26 21:00:00,4010128,9875,Napoli,8548,Rangers,3,0,True,False,Home,42,Champions League
+2,2022-10-26 18:45:00,4010146,8342,Club Brugge,9773,FC Porto,0,4,True,False,Away,42,Champions League
+3,2022-10-26 21:00:00,4010147,9906,Atletico Madrid,8178,Leverkusen,2,2,True,False,Draw,42,Champions League
+4,2022-10-26 18:45:00,4010171,8636,Inter,6033,Viktoria Plzen,4,0,True,False,Home,42,Champions League
+5,2022-10-26 21:00:00,4010172,8634,Barcelona,9823,Bayern München,0,3,True,False,Away,42,Champions League
+6,2022-10-26 21:00:00,4010189,9810,Frankfurt,8592,Marseille,2,1,True,False,Home,42,Champions League
+7,2022-10-26 21:00:00,4010190,8586,Tottenham,9768,Sporting CP,1,1,True,False,Draw,42,Champions League
+0,2022-10-25 18:45:00,4010207,10013,Salzburg,8455,Chelsea,1,2,True,False,Away,42,Champions League
+1,2022-10-25 21:00:00,4010208,10156,Dinamo Zagreb,8564,Milan,0,4,True,False,Away,42,Champions League
+2,2022-10-25 21:00:00,4010213,9925,Celtic,9728,Shakhtar Donetsk,1,1,True,False,Draw,42,Champions League
+3,2022-10-25 21:00:00,4010214,178475,RB Leipzig,8633,Real Madrid,3,2,True,False,Home,42,Champions League
+4,2022-10-25 18:45:00,4010232,8302,Sevilla,8391,FC København,3,0,True,False,Home,42,Champions League
+5,2022-10-25 21:00:00,4010233,9789,Dortmund,8456,Man City,0,0,True,False,Draw,42,Champions League
+6,2022-10-25 21:00:00,4010238,9772,Benfica,9885,Juventus,4,3,True,False,Home,42,Champions League
+7,2022-10-25 21:00:00,4010239,9847,PSG,10185,Maccabi Haifa,7,2,True,False,Home,42,Champions League
+0,2022-11-01 21:00:00,4010130,8650,Liverpool,9875,Napoli,2,0,True,False,Home,42,Champions League
+1,2022-11-01 21:00:00,4010131,8548,Rangers,8593,Ajax,1,3,True,False,Away,42,Champions League
+2,2022-11-01 18:45:00,4010149,8178,Leverkusen,8342,Club Brugge,0,0,True,False,Draw,42,Champions League
+3,2022-11-01 18:45:00,4010148,9773,FC Porto,9906,Atletico Madrid,2,1,True,False,Home,42,Champions League
+4,2022-11-01 21:00:00,4010173,9823,Bayern München,8636,Inter,2,0,True,False,Home,42,Champions League
+5,2022-11-01 21:00:00,4010174,6033,Viktoria Plzen,8634,Barcelona,2,4,True,False,Away,42,Champions League
+6,2022-11-01 21:00:00,4010192,8592,Marseille,8586,Tottenham,1,2,True,False,Away,42,Champions League
+7,2022-11-01 21:00:00,4010191,9768,Sporting CP,9810,Frankfurt,1,2,True,False,Away,42,Champions League
+0,2022-11-02 21:00:00,4010210,8455,Chelsea,10156,Dinamo Zagreb,2,1,True,False,Home,42,Champions League
+1,2022-11-02 21:00:00,4010209,8564,Milan,10013,Salzburg,4,0,True,False,Home,42,Champions League
+2,2022-11-02 18:45:00,4010215,8633,Real Madrid,9925,Celtic,5,1,True,False,Home,42,Champions League
+3,2022-11-02 18:45:00,4010216,9728,Shakhtar Donetsk,178475,RB Leipzig,0,4,True,False,Away,42,Champions League
+4,2022-11-02 21:00:00,4010235,8391,FC København,9789,Dortmund,1,1,True,False,Draw,42,Champions League
+5,2022-11-02 21:00:00,4010234,8456,Man City,8302,Sevilla,3,1,True,False,Home,42,Champions League
+6,2022-11-02 21:00:00,4010241,9885,Juventus,9847,PSG,1,2,True,False,Away,42,Champions League
+7,2022-11-02 21:00:00,4010240,10185,Maccabi Haifa,9772,Benfica,1,6,True,False,Away,42,Champions League
